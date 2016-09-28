@@ -1,0 +1,1 @@
+for(i in 1:dim(timeline)[1]) { s_time[i] <- paste(c(timeline[i,1], timeline[i,2]), collapse = "/")}
